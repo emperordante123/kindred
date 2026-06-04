@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourname/kindred:latest
+          tags: ryandante5/kindred:latest
